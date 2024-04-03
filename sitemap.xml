@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.heartlandcyberrange.com/faq/comingsoon/</loc>
+         <lastmod>2024-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.heartlandcyberrange.com/legal/</loc>
          <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
@@ -42,6 +47,11 @@
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/comingsoon/</loc>
+         <lastmod>2024-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.heartlandcyberrange.com/manuals/HCR_Quick_Start/quickstart/</loc>
          <lastmod>2024-04-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
