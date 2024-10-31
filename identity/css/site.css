@@ -1,7 +1,7 @@
 :root{
   color: white;
   background-color: #000066;
-  background-image: auth_background.png;
+  background-image: /images/auth_background.png;
   padding-left: 10%;
 }
 
