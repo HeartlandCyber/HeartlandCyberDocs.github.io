@@ -16,14 +16,16 @@
 .btn-primary {
   background-color: #6DB657;
   border-color: ##6DB657;
+  font-size: 20px;
+  color: #000066;
 }
 .btn-primary:hover {
   background-color: #900;
   border-color: #b00;
 }
 .btn-primary:disabled {
-  background-color: blue;
-  border-color: blue;
+  background-color: #6DB657;
+  border-color: #6DB657;
 }
 a.jumbo {
   /* text-decoration: none; */
