@@ -63,7 +63,7 @@ hr.spaced {
 .login {
   margin: 0px;
 }
-.login_info {
+.login_lock {
   -webkit-mask-image: url(/images/lock.svg);
   mask-image: url(/images/lock.svg);
   mask: url(/images/lock.svg);
