@@ -43,5 +43,12 @@ hr.spaced {
   margin: 48px 0;
 }
 .display-4 {
-  padding-left: 30px;
+  padding-left: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+.lead {
+  padding-left: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
 }
