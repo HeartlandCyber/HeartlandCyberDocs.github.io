@@ -14,8 +14,8 @@
   top: -5;
 }
 .btn-primary {
-  background-color: #00cc00;
-  border-color: #00cc00;
+  background-color: #6DB657;
+  border-color: ##6DB657;
 }
 .btn-primary:hover {
   background-color: #900;
@@ -31,7 +31,7 @@ a.jumbo {
 }
 a.jumbo:hover {
   /* text-decoration: none; */
-  color: #0000cc;
+  color: #ffffff;
 }
 .navbar {
   justify-content: start;
