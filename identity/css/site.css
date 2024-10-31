@@ -52,11 +52,12 @@ hr.spaced {
 .display-4 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
+  font-weight: bold;
   color: white;
 }
 .lead {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 20px;
 }
 .login {
   margin: 0px;
