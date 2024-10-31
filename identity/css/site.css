@@ -26,11 +26,11 @@
 }
 a.jumbo {
   /* text-decoration: none; */
-  color: black;
+  color: white;
 }
 a.jumbo:hover {
   /* text-decoration: none; */
-  color: #b00;
+  color: #0000cc;
 }
 .navbar {
   justify-content: start;
