@@ -61,3 +61,18 @@ hr.spaced {
 .login {
   margin: 0px;
 }
+.login_info {
+  -webkit-mask-image: url(/images/lock.svg);
+  mask-image: url(/images/lock.svg);
+  mask: url(/images/lock.svg);
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-clip: border-box;
+  mask-origin: border-box;
+  mask-composite: add;
+  mask-position-x: 0%;
+  mask-position-y: 0%;
+  mask-size: auto;
+  mask-image: url("/images/lock.svg");
+  background: #6DB657;
+}
