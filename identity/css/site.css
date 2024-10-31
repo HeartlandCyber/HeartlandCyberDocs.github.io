@@ -14,8 +14,8 @@
   border-color: #b00;
 }
 .btn-primary:disabled {
-  background-color: purple;
-  border-color: purple;
+  background-color: blue;
+  border-color: blue;
 }
 a.jumbo {
   /* text-decoration: none; */
