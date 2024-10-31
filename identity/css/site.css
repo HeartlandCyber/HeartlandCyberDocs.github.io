@@ -60,6 +60,9 @@ hr.spaced {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
+.login-header-row {
+  display: flex;
+}
 .login {
   margin: 0px;
 }
