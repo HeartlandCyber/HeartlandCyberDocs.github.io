@@ -68,7 +68,7 @@ hr.spaced {
   mask-image: url(/images/lock.svg);
   mask: url(/images/lock.svg);
   mask-mode: match-source;
-  mask-repeat: repeat;
+  mask-repeat: no-repeat;
   mask-clip: border-box;
   mask-origin: border-box;
   mask-composite: add;
@@ -77,4 +77,5 @@ hr.spaced {
   mask-size: auto;
   mask-image: url("/images/lock.svg");
   background: #6DB657;
+  margin-right: 1em;
 }
