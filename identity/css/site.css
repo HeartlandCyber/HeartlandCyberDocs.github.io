@@ -21,6 +21,9 @@
   color: #000066;
   padding-left: 15px;
   padding-right: 15px;
+  width: 400px;
+  height: 80px;
+  font-weight: bold;
 }
 .btn-primary:hover {
   background-color: #900;
