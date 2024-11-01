@@ -2,7 +2,7 @@
   color: white;
   background-color: #000066;
   background-image: url("/images/auth_background.png");
-  background-size: cover;
+  background-size: cover; 
   padding-left: 20%;
 }
 
