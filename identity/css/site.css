@@ -16,7 +16,7 @@
 .btn-primary {
   background-color: #6DB657;
   border-color: ##6DB657;
-  border-radius: 8px;
+  border-radius: 12px;
   font-size: 20px;
   color: #000066;
   padding-left: 15px;
@@ -70,7 +70,7 @@ hr.spaced {
   margin-right: 15px;
   padding-left: 20px;
   border: none;
-  border-radius: 8px;
+  border-radius: 12px;
   background-color: #323858;
   color: white;
   font-size: 24px;
