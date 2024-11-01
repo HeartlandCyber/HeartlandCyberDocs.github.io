@@ -56,6 +56,7 @@ hr.spaced {
   margin: 48px 0;
 }
 .form-control {
+  display: inline;
   width: 15%;
   margin-right: 15px;
   border: none;
