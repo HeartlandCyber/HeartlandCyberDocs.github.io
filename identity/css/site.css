@@ -33,6 +33,11 @@
   background-color: #6DB657;
   border-color: #6DB657;
 }
+.btn-sm {
+  color: white;
+  font-size: 20px;
+  font-decoration: underline;
+}
 a.jumbo {
   /* text-decoration: none; */
   color: white;
