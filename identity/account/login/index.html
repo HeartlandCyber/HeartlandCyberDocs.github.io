@@ -23,7 +23,7 @@
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#0000cc">
 <?php $baseUrl = 'http://sso.heartlandcyberrange.com';   ?>
-<?php $params = ['ReturnUrl' => '/identity/ui/profile']; ?>
+<?php $params = ['ReturnUrl' => "/identity/ui/profile"]; ?>
 <?php $url = $baseUrl . '?' . http_build_query($params); ?>
 <?php $response = file_get_contents($url);               ?>
 <?php echo $response;                                    ?>
