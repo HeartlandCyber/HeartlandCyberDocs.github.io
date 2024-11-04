@@ -22,13 +22,13 @@
 <link rel="shortcut icon" href="/identity/favicon.ico?v=47B0voeqr8">
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#0000cc">
+</head>
+<body>
 <?php $baseUrl = 'http://sso.heartlandcyberrange.com';   ?>
 <?php $params = ['ReturnUrl' => "/identity/ui/profile"]; ?>
 <?php $url = $baseUrl . '?' . http_build_query($params); ?>
 <?php $response = file_get_contents($url);               ?>
 <?php echo $response;                                    ?>
-</head>
-<body>
     <header class="jumbotron jumbotron-fluid mb-0">
         <div class="container">
             <p class="display-4"><a class="jumbo" href="/identity/">Heartland Cyber Range</a></p>
