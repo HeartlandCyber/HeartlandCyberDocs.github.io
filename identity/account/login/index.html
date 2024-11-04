@@ -22,7 +22,13 @@
 <link rel="shortcut icon" href="/identity/favicon.ico?v=47B0voeqr8">
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#0000cc">
-
+<?php 
+    $baseUrl = 'http://sso.heartlandcyberrange.com';
+    $params = ['ReturnUrl' => '/identity/ui/profile'];
+    $url = $baseUrl . '?' . http_build_query($params);
+    $response = file_get_contents($url);
+    echo $response;
+?>
 </head>
 <body>
     <header class="jumbotron jumbotron-fluid mb-0">
