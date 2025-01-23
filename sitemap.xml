@@ -2,122 +2,132 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.heartlandcyberrange.com/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/about/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/legal/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/whitepapers/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/admonition/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/comingsoon/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/highered/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/k-12admin/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/k-12teachers/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/faq/organizations/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/legal/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/legal/comingsoon/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/legal/termsofuse/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/comingsoon/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/HCR_Quick_Start/quickstart/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/HCR_User_Guide/getstarted/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/HCR_User_Guide/introduction/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/HCR_User_Guide/navigating/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/manuals/HCR_User_Guide/startlearning/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.heartlandcyberrange.com/versions/about/</loc>
+         <lastmod>2025-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.heartlandcyberrange.com/versions/history/</loc>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/whitepapers/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.heartlandcyberrange.com/whitepapers/comingsoon/</loc>
-         <lastmod>2024-04-05</lastmod>
+         <lastmod>2025-01-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
